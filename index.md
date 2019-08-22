@@ -16,11 +16,4 @@
 
 
 
-
-<div style="width:360px"><script language="JavaScript" src="https://www.tfl.gov.uk/tfl/syndication/widgets/tubemap/tubemap-iframe-stretchy.js"></script></div>
-
-
-
-
-
-<a href="http://www.tfl.gov.uk/plan-a-journey/" target="_blank"><img src="https://tfl.gov.uk/cdn/static/images/170x100button.jpg" alt=Journey Planner" /></a>
+<script language="JavaScript" src="https://www.tfl.gov.uk/tfl/syndication/widgets/tubemap/tubemap-iframe-stretchy.js"></script>
