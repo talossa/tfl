@@ -29,7 +29,7 @@
         fjs.parentNode.insertBefore(js, fjs);
     })(document, 'script', 'moovit-jsw');</script>
 
-    <div class="mv-gd-widget-20" 
-         data-width="100%" 
-         data-height="100%"
-         data-id="3032576"></div>
+   <div class="mv-gd-widget-20" 
+        data-width="100%" 
+        data-height="100%"
+        data-id="3032576"></div>
