@@ -85,8 +85,8 @@
 .img-zoom-result {
   border: 1px solid #d4d4d4;
   /*set the size of the result div:*/
-  width: ;
-  height: 500px;
+  width: 550;
+  height: 550px;
 }
 </style>
 <script>
