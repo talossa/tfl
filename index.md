@@ -31,12 +31,11 @@
 </div>
 </div>
   <div class="container">
-    <h1>jquery.imagezoom Demo</h1>
+    <h1></h1>
     <div data-zoom="https://tfl.gov.uk/cdn/static/cms/images/london-rail-and-tube-services-map.gif" class="zoom" style="max-width: 600px; border: 1px solid black; overflow: hidden;">
-      <img src="https://unsplash.it/506/613?image=628" />
+      <img src="https://tfl.gov.uk/cdn/static/cms/images/london-rail-and-tube-services-map.gif" />
     </div>
 </div>
-    <!-- Your web-app is https, so your scripts need to be too -->
     <script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src="jquery.imagezoom.js"></script>
     <script>
@@ -56,5 +55,4 @@
   })();
 
 </script>
-  </body>
 </html>
