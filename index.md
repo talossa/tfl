@@ -29,12 +29,6 @@
 
 
 
-<script language="JavaScript" src="https://www.tfl.gov.uk/tfl/syndication/widgets/tubemap/tubemap-iframe-stretchy.js"></script>
-
-
-
-
-
 
 
 
@@ -84,15 +78,15 @@
   position: absolute;
   border: 1px solid #d4d4d4;
   /*set the size of the lens:*/
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
 }
 
 .img-zoom-result {
   border: 1px solid #d4d4d4;
   /*set the size of the result div:*/
-  width: 300px;
-  height: 300px;
+  width: ;
+  height: 500px;
 }
 </style>
 <script>
