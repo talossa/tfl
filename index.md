@@ -25,20 +25,3 @@
 
 
 
-
-
-<div class="jquery-script-clear"></div>
-</div>
-<div>
-  <div class="container">
-    <h1></h1>
-    <div data-zoom="https://tfl.gov.uk/cdn/static/cms/images/london-rail-and-tube-services-map.gif" class="zoom" style="max-width: 600px; border: 1px solid black; overflow: hidden;">
-      <img src="https://tfl.gov.uk/cdn/static/cms/images/london-rail-and-tube-services-map.gif" />
-    </div>
-</div>
- <script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
- <script src="jquery.imagezoom.js"></script>
- <script>
-   $('.zoom').zoom();
- </script>
-</html>
