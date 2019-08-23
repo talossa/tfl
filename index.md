@@ -30,7 +30,9 @@
 
 
 
-
+<div class="zoom">
+      <img class="media visible" src="https://tfl.gov.uk/cdn/static/cms/images/london-rail-and-tube-services-map.gif" alt="test1" data-scale="1" data-translate-x="0" data-translate-y="0" style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1);">
+    </div>
 
 
 
