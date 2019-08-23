@@ -30,7 +30,7 @@
 
 
 <html>
-<script src="js/directive.js"></script>
+<script src="directive.js"></script>
 <div class="zoom">
   <img class="media" src="https://tfl.gov.uk/cdn/static/cms/images/london-rail-and-tube-services-map.gif" alt="test1">
 </div>
