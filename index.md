@@ -5,7 +5,7 @@ y
 </head>
 </html>
 
-<a href="https://drive.google.com/file/d/1gdZPr6FWmMy-J4uvFzJi1J-7NzfFoiNb/view?usp=drivesdk"> map        </a>
+<a href="http://content.tfl.gov.uk/london-rail-and-tube-services-map.pdf"> map        </a>
 
 <a href="https://moovitapp.com/?metroId=2122"> route planner </a>
 
