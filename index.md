@@ -139,7 +139,7 @@ imageZoom("myimage", "myresult");
 </html>
 
 ## lennot
-542 € - 139 € = 403 €, tarkista google flights
+548 € - 139 € = 409 €, tarkista google flights
 ## asuminen lontoossa
 noin 220/yö, 3 yötä lontoossa + palvelumaksut ≈ 720 €, tarkista airbnb
 ## juna ldn -> brig
@@ -149,4 +149,4 @@ noin 220/yö, 3 yötä lontoossa + palvelumaksut ≈ 720 €, tarkista airbnb
 
 # yhteensä 
 403 + 720 + 50 + 23  = 
-## 1196 €
+## 1204 €
