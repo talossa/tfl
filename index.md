@@ -148,5 +148,5 @@ noin 220/yö, 3 yötä lontoossa + palvelumaksut ≈ 720 €, tarkista airbnb
 ≈ 23 €, tarkista https://51.fi/ez9
 
 # yhteensä 
-403 + 720 + 50 + 23  = 
+409 + 720 + 50 + 23  = 
 ## 1204 €
