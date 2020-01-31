@@ -143,13 +143,13 @@ imageZoom("myimage", "myresult");
 </html>
 
 ## lennot
-541 € - (541 € / 4) = 405.75 €, tarkista google flights tai LINK
+541 € - (541 € / 4) = 405.75 €, tarkista google flights tai <https://u.teknik.io/OgVFp.html>
 ## asuminen lontoossa
-noin 201/yö, 3 yötä lontoossa + palvelumaksut = 755 €, tarkista https://51.fi/eAG
+noin 201/yö, 3 yötä lontoossa + palvelumaksut = 755 €, tarkista <https://51.fi/eAG>
 ## juna ldn -> brig
-= 52.68 €, tarkista https://51.fi/ez8
+= 52.68 €, tarkista <https://51.fi/ez8>
 ## juna brig -> LGW
-= 23.72 €, tarkista https://51.fi/ez9
+= 23.72 €, tarkista <https://51.fi/ez9>
 
 # yhteensä 
 405.75 + 755 + 52.68 + 23.72  = 
