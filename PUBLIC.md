@@ -143,7 +143,7 @@ imageZoom("myimage", "myresult");
 </html>
 
 ## lennot
-541 € - (541 € / 4) = 405.75 €, tarkista google flights tai LINK
+541 € - (541 € / 4) = 405.75 €
 ## asuminen lontoossa
 noin 201/yö, 3 yötä lontoossa + palvelumaksut = 755 €, tarkista https://51.fi/eAG
 ## juna ldn -> brig
